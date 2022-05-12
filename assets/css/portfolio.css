@@ -33,6 +33,7 @@
 
 .logo_web{
     margin-top: 2vh;
+    opacity: calc(0.5); 
     background-color: #444444;
     border: 2px solid #444444;
     border-radius: 6em;
